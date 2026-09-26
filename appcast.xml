@@ -3,6 +3,25 @@
     <channel>
         <title>toutDeSuite</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Sat, 26 Sep 2026 06:29:34 -0700</pubDate>
+            <sparkle:version>1.0.7</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>toutDeSuite 1.0.7</h3><ul>
+<li>toutDeSuite now opens on the Suite Monitor</li>
+<li>Tabs reordered: Monitor, Move, Delete, then Queue</li>
+<li>New Job, Pause and job counts appear on the Queue tab only</li>
+<li>The Queue tab shows how many jobs are active, so transfers stay visible from any tab</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/byautonomy/toutdesuite-appcast/releases/download/builds/toutDeSuite-1.0.7.zip" length="5218308" type="application/octet-stream" sparkle:edSignature="dMZ9v2SIY8p+PcYXPD/xCnY8uVi17dL9JpV5ea6DDXoAFD3cR9GIbnwqkMLJ/NR6tBhMKjiZVBhQ4MgbOGqnAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/byautonomy/toutdesuite-appcast/releases/download/builds/toutDeSuite1.0.7-1.0.6.delta" sparkle:deltaFrom="1.0.6" length="160714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N8ZBfxrpzWKizQ+kAcR2raT87p6QeGw/wU7MpbAvv8DWrhtsR2C8LyOei5w8mVYfIZ3G8IKU2I6uVDo6jig2CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Fri, 25 Sep 2026 21:05:59 -0700</pubDate>
             <sparkle:version>1.0.6</sparkle:version>
