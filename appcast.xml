@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>toutDeSuite</title>
+        <item>
+            <title>1.0.6</title>
+            <pubDate>Fri, 25 Sep 2026 21:05:59 -0700</pubDate>
+            <sparkle:version>1.0.6</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>toutDeSuite 1.0.6</h3><ul>
+<li>Updates now install themselves: toutDeSuite checks at launch and hourly, then offers to update and relaunch</li>
+<li>Check for Updates… in the toutDeSuite menu</li>
+<li>Fixed: the Download button on older versions fetched 1.0.0 instead of the latest build</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/byautonomy/toutdesuite-appcast/releases/download/builds/toutDeSuite-1.0.6.zip" length="5215533" type="application/octet-stream" sparkle:edSignature="ZNcvptuH5n5WD9NIT7op0DCZBPSxZt3PT8D8s4bb/UodQaThSoeWlmt4wPSDg58BqtrsEVbW7Wbr5WakiywnBQ=="/>
+        </item>
+    </channel>
+</rss>
